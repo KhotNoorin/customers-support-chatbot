@@ -1,0 +1,38 @@
+# Web framework
+flask>=2.2.5
+gunicorn>=20.1.0
+
+# LangChain for RAG orchestration
+langchain==1.0.3
+langchain-community>=0.4.1
+langchain-huggingface>=1.0.1
+langchain-chroma>=0.1.2
+
+# Vector DB
+chromadb>=0.5.3
+
+# Hugging Face API + transformers & helpers
+huggingface-hub>=0.23.0
+transformers>=4.42.0
+tokenizers>=0.19.0
+
+# HTTP + env management
+requests>=2.28.2
+python-dotenv>=0.21.0
+
+# File loaders / parsing
+PyPDF2>=3.0.0
+pdfplumber>=0.7.5
+docx2txt
+unstructured
+
+# Utilities
+tqdm>=4.65.0
+numpy
+pydantic>=2.0
+
+# Optional (useful during development)
+ipython
+black
+flake8
+tiktoken

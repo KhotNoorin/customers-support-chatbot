@@ -1,0 +1,11 @@
+Troubleshooting Guide:
+
+If your device does not turn on:
+1. Ensure it is properly connected to a power source.
+2. Press and hold the power button for 5 seconds.
+3. Try using a different power cable or adapter.
+
+If the device freezes:
+1. Restart the device.
+2. If the issue persists, perform a factory reset.
+3. Contact support if the problem continues.
